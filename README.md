@@ -1,0 +1,1 @@
+# men-stack-auth-template
